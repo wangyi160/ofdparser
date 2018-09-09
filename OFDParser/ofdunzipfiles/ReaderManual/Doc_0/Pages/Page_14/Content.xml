@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ofd:Page xmlns:ofd="http://www.ofdspec.org">
+  <ofd:Area>
+    <ofd:PhysicalBox>0.00 0.00 210.00 297.00</ofd:PhysicalBox>
+  </ofd:Area>
+  <ofd:Content>
+    <ofd:Layer ID="2093">
+      <ofd:TextObject ID="2094" Boundary="31.75 275.84 3.13 3.64" MiterLimit="4.23" Font="4" Size="3.22">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="2.88"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2095" Boundary="103.38 275.84 3.13 3.64" MiterLimit="4.23" Font="4" Size="3.22">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="2.88" DeltaX="1.61">15</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2096" Boundary="106.51 275.84 3.13 3.64" MiterLimit="4.23" Font="4" Size="3.22">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:Clips>
+          <ofd:Clip>
+            <ofd:Area>
+              <ofd:Path ID="2097" MiterLimit="4.23" Stroke="false" Fill="true" Rule="Even-Odd">
+                <ofd:AbbreviatedData>M -3.13 0.00 L -3.13 3.64 L 0.08 3.64 L 0.08 0.00 C </ofd:AbbreviatedData>
+              </ofd:Path>
+            </ofd:Area>
+          </ofd:Clip>
+        </ofd:Clips>
+        <ofd:TextCode X="0.00" Y="2.88"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2098" Boundary="39.20 27.52 1.69 4.32" MiterLimit="4.23" Font="4" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.39">“</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2099" Boundary="40.89 27.69 18.54 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.64 3.73">页面缩略图</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2100" Boundary="59.44 27.52 1.61 4.32" MiterLimit="4.23" Font="4" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.39">”</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2101" Boundary="61.04 27.69 44.45 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73 3.64 3.73 3.73 3.64 3.73 3.73 3.73 3.64">提供了文档页面的微型预览</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2102" Boundary="105.49 27.69 2.88 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">，</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2103" Boundary="108.37 27.69 18.37 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.64 3.64">您可以使用</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2104" Boundary="126.75 27.52 1.78 4.32" MiterLimit="4.23" Font="4" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.39">“</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2105" Boundary="128.52 27.69 7.37 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73">页面</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2106" Boundary="135.89 27.52 1.69 4.32" MiterLimit="4.23" Font="4" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.39">”</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2107" Boundary="137.58 27.69 40.64 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.64 3.73 3.73 3.73 3.64 3.73 3.73 3.64 3.73">面板中的缩略图来更改页</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2108" Boundary="31.75 35.81 40.81 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73 3.73 3.64 3.73 3.73 3.73 3.64 3.73">面显示以及跳至其他页面</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2109" Boundary="72.56 35.81 3.73 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">，</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2110" Boundary="76.28 35.81 92.54 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.64 3.73 3.73 3.73 3.64 3.73 3.73 3.73 3.64 3.73 3.64 3.73 3.73 3.73 3.73 3.64 3.73 3.73 3.73 3.64 3.73 3.73 3.73 3.64">页面缩略图中的红色页面查看框表示正在显示的页面区域</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2111" Boundary="168.83 35.81 3.64 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">。</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2112" Boundary="172.47 35.64 3.13 4.32" MiterLimit="4.23" Font="4" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.39"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2113" Boundary="39.20 46.82 14.90 3.73" MiterLimit="4.23" Font="386" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73">语义导览</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2114" Boundary="54.10 46.57 3.13 4.32" MiterLimit="4.23" Font="662" Size="3.73" Weight="700">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.47"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2115" CTM="57.15 0.00 0.00 40.22 0.00 0.00" Boundary="80.09 57.49 57.15 40.22" MiterLimit="4.23" ResourceID="2116"/>
+      <ofd:TextObject ID="2117" Boundary="137.24 94.32 3.13 4.32" MiterLimit="4.23" Font="4" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.39"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2118" Boundary="39.20 112.27 11.18 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73">您可以</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2119" Boundary="50.38 112.27 25.91 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.64 3.73 3.73 3.73 3.64">点击阅读器左侧</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2120" Boundary="76.28 112.27 11.09 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73">导航栏</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2121" Boundary="87.38 112.27 18.46 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73 3.64">的大纲按钮</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2122" CTM="9.57 0.00 0.00 10.58 0.00 0.00" Boundary="105.83 104.90 9.57 10.58" MiterLimit="4.23" ResourceID="2123"/>
+      <ofd:TextObject ID="2124" Boundary="115.40 112.27 14.90 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73">进入大纲</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2125" Boundary="130.30 112.27 14.82 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.64 3.73 3.73">导览模式</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2126" Boundary="145.12 112.27 3.64 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">。</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2127" Boundary="148.76 112.01 3.13 4.32" MiterLimit="4.23" Font="662" Size="3.73" Weight="700">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.47"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2128" Boundary="39.20 123.95 19.56 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73 3.73">文档语义是</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2129" Boundary="58.76 123.78 8.47 4.32" MiterLimit="4.23" Font="4" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.39" DeltaX="2.71 2.03">OFD</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2130" Boundary="67.23 123.95 62.99 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.64 3.73 3.73 3.73 3.64 3.73 3.73 3.73 3.64 3.73 3.73 3.73 3.64 3.73">的区别于其他版式文件格式的主要特性</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2131" Boundary="130.22 123.95 3.73 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">，</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2132" Boundary="133.94 123.95 44.28 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.64 3.73 3.73 3.73 3.64 3.73 3.73 3.73 3.64 3.73">它允许文档的生成时添加与</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2133" Boundary="31.75 132.25 33.44 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73 3.73 3.64 3.73 3.73 3.73">应用业务的相关信息</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2134" Boundary="65.19 132.25 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">，</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2135" Boundary="68.33 132.25 74.08 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.64 3.73 3.73 3.73 3.64 3.73 3.73 3.73 3.64 3.73 3.73 3.73 3.64 3.73 3.73 3.73 3.73 3.64 3.73">而又丝毫不影响版式文档本身的阅读显示功能</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2136" Boundary="142.41 132.25 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">。</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2137" Boundary="145.54 132.25 22.27 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.64 3.73 3.73">利用这一机制</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2138" Boundary="167.81 132.25 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">，</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2139" Boundary="170.94 132.25 7.28 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73">可定</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2140" Boundary="31.75 140.46 38.10 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73 3.73 3.64 3.73 3.73 3.73 3.73">制生成具有行业特征的</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2141" Boundary="69.85 140.29 8.47 4.32" MiterLimit="4.23" Font="4" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.39" DeltaX="2.71 2.03">OFD</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2142" Boundary="78.32 140.46 7.37 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73">文件</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2143" Boundary="85.68 140.46 3.73 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">。</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2144" Boundary="89.41 140.46 40.81 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.64 3.73 3.73 3.73 3.64 3.73 3.73 3.73">这些信息既可以用来导览</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2145" Boundary="130.22 140.46 3.64 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">，</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2146" Boundary="133.86 140.46 40.81 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73 3.64 3.73 3.73 3.73 3.64 3.73 3.73">也可以用来实现其他需求</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2147" Boundary="174.67 140.46 3.56 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">，</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2148" Boundary="31.75 148.76 51.90 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73 3.73 3.64 3.73 3.73 3.73 3.64 3.73 3.73 3.73 3.64">例如保留档案要求的前端信息等</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2149" Boundary="83.65 148.76 3.73 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">。</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2150" Boundary="87.38 148.76 81.45 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.64 3.73 3.73 3.73 3.64 3.73 3.64 3.73 3.73 3.73 3.73 3.64 3.73 3.73 3.73 3.64 3.73 3.73 3.73 3.64">公文语义树是专门用于显示政府公文中特定的信息</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2151" Boundary="168.83 148.76 3.73 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">，</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2152" Boundary="172.55 148.76 3.73 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">如</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2153" Boundary="176.28 148.76 1.95 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">：</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2154" Boundary="178.22 148.59 1.78 4.32" MiterLimit="4.23" Font="4" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.39"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2155" Boundary="31.75 156.89 7.45 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73">版头</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2156" Boundary="39.20 156.89 3.73 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">、</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2157" Boundary="42.93 156.89 22.18 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.64 3.73 3.73 3.73">主体和版记等</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2158" Boundary="65.11 156.89 3.73 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">。</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2159" Boundary="68.83 156.89 81.45 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.64 3.73 3.73 3.73 3.64 3.73 3.73 3.73 3.64 3.73 3.64 3.73 3.73 3.73 3.73 3.64 3.73 3.73 3.73">您可以通过点击语义树节点来定位到文档相关内容</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2160" Boundary="150.28 156.89 3.64 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">。</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2161" Boundary="153.92 156.72 3.13 4.32" MiterLimit="4.23" Font="4" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.39"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2162" Boundary="39.20 167.89 14.90 3.73" MiterLimit="4.23" Font="386" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73">注释导览</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2163" Boundary="54.10 167.64 3.13 4.32" MiterLimit="4.23" Font="662" Size="3.73" Weight="700">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.47"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2164" CTM="62.74 0.00 0.00 50.04 0.00 0.00" Boundary="77.30 179.15 62.74 50.04" MiterLimit="4.23" ResourceID="2165"/>
+      <ofd:TextObject ID="2166" Boundary="140.04 225.81 3.13 4.32" MiterLimit="4.23" Font="4" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.39"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2167" Boundary="39.20 244.52 11.18 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73">您可以</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2168" Boundary="50.38 244.52 25.91 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.64 3.73 3.73 3.73 3.64">点击阅读器左侧</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2169" Boundary="76.28 244.52 11.09 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73">导航栏</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2170" Boundary="87.38 244.52 18.46 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73 3.64">的大纲按钮</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2171" CTM="8.21 0.00 0.00 10.84 0.00 0.00" Boundary="105.83 236.90 8.21 10.84" MiterLimit="4.23" ResourceID="2172"/>
+      <ofd:TextObject ID="2173" Boundary="114.05 244.52 14.90 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73">进入大纲</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2174" Boundary="128.95 244.52 14.82 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.64 3.73 3.73">导览模式</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2175" Boundary="143.76 244.52 3.64 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">。</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2176" Boundary="147.40 244.26 3.13 4.32" MiterLimit="4.23" Font="662" Size="3.73" Weight="700">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.47"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2177" Boundary="39.20 256.03 7.45 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73">注释</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2178" Boundary="46.65 256.03 3.73 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">是</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2179" Boundary="50.38 256.03 22.27 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.64 3.73 3.73 3.73">一种备注信息</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2180" Boundary="72.64 256.03 2.79 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">，</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2181" Boundary="75.44 256.03 11.18 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73">可用于</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2182" Boundary="86.61 256.03 55.54 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.64 3.73 3.73 3.73 3.64 3.73 3.73 3.73 3.64 3.64 3.73 3.73 3.73 3.73">解释说明或者突出显示文档内容等</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2183" Boundary="142.16 256.03 2.79 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">。</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2184" Boundary="144.95 256.03 3.73 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">您</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2185" Boundary="148.67 256.03 29.55 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.64 3.73 3.73 3.73 3.64">可以通过文档中自</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2186" Boundary="31.75 264.24 22.27 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73 3.73 3.64">带的注释快速</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2187" Boundary="54.02 264.24 7.45 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73">查看</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2188" Boundary="61.47 264.24 40.72 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.64 3.73 3.73 3.73 3.64 3.73 3.73 3.73 3.64 3.73">到文件或定位到特定位置</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2189" Boundary="102.19 264.24 3.64 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">。</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2190" Boundary="105.83 264.08 3.13 4.32" MiterLimit="4.23" Font="4" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.39"> </ofd:TextCode>
+      </ofd:TextObject>
+    </ofd:Layer>
+  </ofd:Content>
+</ofd:Page>

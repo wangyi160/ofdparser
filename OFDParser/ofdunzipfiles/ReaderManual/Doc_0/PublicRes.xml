@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ofd:Res xmlns:ofd="http://www.ofdspec.org" BaseLoc="Res">
+  <ofd:ColorSpaces>
+    <ofd:ColorSpace ID="1"/>
+  </ofd:ColorSpaces>
+  <ofd:Fonts>
+    <ofd:Font ID="4" FamilyName="Times New Roman" FontName="Times New Roman"/>
+    <ofd:Font ID="7" FamilyName="宋体" FontName="宋体"/>
+    <ofd:Font ID="138" FamilyName="Calibri" FontName="Calibri"/>
+    <ofd:Font ID="386" FamilyName="宋体" Bold="true" FontName="宋体"/>
+    <ofd:Font ID="388" FamilyName="Arial" FontName="Arial Bold"/>
+    <ofd:Font ID="455" FamilyName="Wingdings" CharSet="symbol" FontName="Wingdings"/>
+    <ofd:Font ID="457" FamilyName="Arial" FontName="Arial"/>
+    <ofd:Font ID="662" FamilyName="Times New Roman" FontName="Times New Roman Bold"/>
+    <ofd:Font ID="1475" FamilyName="黑体" Bold="true" FontName="黑体"/>
+  </ofd:Fonts>
+  <ofd:MultiMedias>
+    <ofd:MultiMedia ID="762" Type="Image">
+      <ofd:MediaFile>image.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="901" Type="Image">
+      <ofd:MediaFile>image000000.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="1002" Type="Image">
+      <ofd:MediaFile>image000001.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="1004" Type="Image">
+      <ofd:MediaFile>image000002.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="1116" Type="Image">
+      <ofd:MediaFile>image000003.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="1146" Type="Image">
+      <ofd:MediaFile>image000004.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="1293" Type="Image">
+      <ofd:MediaFile>image000005.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="1345" Type="Image">
+      <ofd:MediaFile>image000006.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="1398" Type="Image">
+      <ofd:MediaFile>image000007.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="1439" Type="Image">
+      <ofd:MediaFile>image000008.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="1502" Type="Image">
+      <ofd:MediaFile>image000009.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="1674" Type="Image">
+      <ofd:MediaFile>image000010.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="1891" Type="Image">
+      <ofd:MediaFile>image000011.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="1922" Type="Image">
+      <ofd:MediaFile>image000012.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="1930" Type="Image">
+      <ofd:MediaFile>image000013.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="1956" Type="Image">
+      <ofd:MediaFile>image000014.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2008" Type="Image">
+      <ofd:MediaFile>image000014.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2028" Type="Image">
+      <ofd:MediaFile>image000015.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2055" Type="Image">
+      <ofd:MediaFile>image000016.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2062" Type="Image">
+      <ofd:MediaFile>image000017.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2080" Type="Image">
+      <ofd:MediaFile>image000018.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2087" Type="Image">
+      <ofd:MediaFile>image000019.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2116" Type="Image">
+      <ofd:MediaFile>image000020.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2123" Type="Image">
+      <ofd:MediaFile>image000021.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2165" Type="Image">
+      <ofd:MediaFile>image000022.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2172" Type="Image">
+      <ofd:MediaFile>image000023.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2220" Type="Image">
+      <ofd:MediaFile>image000024.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2222" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2224" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2226" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2228" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2237" Type="Image">
+      <ofd:MediaFile>image000024.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2239" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2241" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2243" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2245" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2253" Type="Image">
+      <ofd:MediaFile>image000024.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2255" Type="Image">
+      <ofd:MediaFile>image000026.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2257" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2259" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2261" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2269" Type="Image">
+      <ofd:MediaFile>image000024.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2271" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2273" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2275" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2277" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2285" Type="Image">
+      <ofd:MediaFile>image000024.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2287" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2289" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2291" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2293" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2302" Type="Image">
+      <ofd:MediaFile>image000024.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2304" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2306" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2308" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2310" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2318" Type="Image">
+      <ofd:MediaFile>image000024.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2320" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2322" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2324" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2326" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2334" Type="Image">
+      <ofd:MediaFile>image000024.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2336" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2338" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2340" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2342" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2352" Type="Image">
+      <ofd:MediaFile>image000024.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2354" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2356" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2358" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2360" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2370" Type="Image">
+      <ofd:MediaFile>image000024.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2372" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2374" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2376" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2378" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2387" Type="Image">
+      <ofd:MediaFile>image000024.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2389" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2391" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2393" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2395" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2403" Type="Image">
+      <ofd:MediaFile>image000024.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2405" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2407" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2409" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2411" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2420" Type="Image">
+      <ofd:MediaFile>image000024.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2422" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2424" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2426" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2428" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2438" Type="Image">
+      <ofd:MediaFile>image000024.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2440" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2442" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2444" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2446" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2455" Type="Image">
+      <ofd:MediaFile>image000024.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2457" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2459" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2461" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2463" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2473" Type="Image">
+      <ofd:MediaFile>image000028.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2475" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2477" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2479" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2481" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2489" Type="Image">
+      <ofd:MediaFile>image000028.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2491" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2493" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2495" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2497" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2505" Type="Image">
+      <ofd:MediaFile>image000028.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2507" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2509" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2511" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2513" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2521" Type="Image">
+      <ofd:MediaFile>image000028.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2523" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2525" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2527" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2529" Type="Image">
+      <ofd:MediaFile>image000025.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2538" Type="Image">
+      <ofd:MediaFile>image000028.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2540" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2542" Type="Image">
+      <ofd:MediaFile>image000029.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2544" Type="Image">
+      <ofd:MediaFile>image000027.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2546" Type="Image">
+      <ofd:MediaFile>image000030.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2548" Type="Image">
+      <ofd:MediaFile>image000031.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2550" Type="Image">
+      <ofd:MediaFile>image000032.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2552" Type="Image">
+      <ofd:MediaFile>image000033.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+    <ofd:MultiMedia ID="2554" Type="Image">
+      <ofd:MediaFile>image000034.jpg</ofd:MediaFile>
+    </ofd:MultiMedia>
+  </ofd:MultiMedias>
+</ofd:Res>

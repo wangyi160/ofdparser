@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ofd:OFD xmlns:ofd="http://www.ofdspec.org" DocType="OFD" Version="1.0">
+  <ofd:DocBody>
+    <ofd:DocInfo>
+      <ofd:DocID>bc0921a1-c1e7-11e6-8000-711600007016</ofd:DocID>
+      <ofd:Creator>数科网维虚拟打印机(chenyj@suwell.cn)</ofd:Creator>
+      <ofd:CreationDate>2016-12-14</ofd:CreationDate>
+      <ofd:ModDate>2016-12-14</ofd:ModDate>
+      <ofd:Title>数科阅读器用户手册 - 个人版20161214新.ofd</ofd:Title>
+    </ofd:DocInfo>
+    <ofd:DocRoot>Doc_0/Document.xml</ofd:DocRoot>
+  </ofd:DocBody>
+</ofd:OFD>

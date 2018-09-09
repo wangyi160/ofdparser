@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ofd:Page xmlns:ofd="http://www.ofdspec.org">
+  <ofd:Area>
+    <ofd:PhysicalBox>0.00 0.00 210.00 297.00</ofd:PhysicalBox>
+  </ofd:Area>
+  <ofd:Content>
+    <ofd:Layer ID="2192">
+      <ofd:TextObject ID="2193" Boundary="31.75 275.84 3.13 3.64" MiterLimit="4.23" Font="4" Size="3.22">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="2.88"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2194" Boundary="103.38 275.84 3.13 3.64" MiterLimit="4.23" Font="4" Size="3.22">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="2.88" DeltaX="1.61">16</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2195" Boundary="106.51 275.84 3.13 3.64" MiterLimit="4.23" Font="4" Size="3.22">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:Clips>
+          <ofd:Clip>
+            <ofd:Area>
+              <ofd:Path ID="2196" MiterLimit="4.23" Stroke="false" Fill="true" Rule="Even-Odd">
+                <ofd:AbbreviatedData>M -3.13 0.00 L -3.13 3.64 L 0.08 3.64 L 0.08 0.00 C </ofd:AbbreviatedData>
+              </ofd:Path>
+            </ofd:Area>
+          </ofd:Clip>
+        </ofd:Clips>
+        <ofd:TextCode X="0.00" Y="2.88"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2197" Boundary="31.75 28.79 2.88 5.67" MiterLimit="4.23" Font="386" Size="5.67">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="4.91">4</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2198" Boundary="34.63 28.45 4.57 6.60" MiterLimit="4.23" Font="388" Size="5.67" Weight="700">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="5.25"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2199" Boundary="39.20 28.79 5.76 5.67" MiterLimit="4.23" Font="386" Size="5.67">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="4.91" DeltaX="2.88">  </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2200" Boundary="44.96 27.01 38.86 7.79" MiterLimit="4.23" Font="386" Size="7.79">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="6.69" DeltaX="7.79 7.79 7.79 7.79">常用快捷键</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2201" Boundary="83.82 28.79 3.13 5.67" MiterLimit="4.23" Font="386" Size="5.67">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="4.91"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2202" Boundary="39.20 41.32 48.18 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73 3.73 3.64 3.73 3.73 3.73 3.64 3.73 3.73 3.73">本章作为手册的补充说明部分</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2203" Boundary="87.38 41.32 3.73 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">，</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2204" Boundary="91.10 41.32 22.27 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.64 3.73 3.73">主要列出了在</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2205" Boundary="113.37 41.32 7.37 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.64">阅读</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2206" Boundary="120.73 41.32 7.37 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.64">文档</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2207" Boundary="128.10 41.32 11.18 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73">时可以</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2208" Boundary="139.28 41.32 7.37 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.64">使用</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2209" Boundary="146.64 41.32 22.27 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.64 3.73 3.73">的常用快捷键</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2210" Boundary="168.91 41.32 3.64 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">：</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2211" Boundary="172.55 41.32 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2212" Boundary="35.81 52.66 7.37 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73">序号</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2213" Boundary="43.18 52.66 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2214" Boundary="67.82 52.66 7.45 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73">动作</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2215" Boundary="75.27 52.66 1.78 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2216" Boundary="77.05 52.66 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2217" Boundary="131.40 52.66 11.09 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73">快捷键</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2218" Boundary="142.49 52.66 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2219" CTM="150.28 0.00 0.00 0.17 0.00 0.00" Boundary="29.72 50.12 150.28 0.17" MiterLimit="4.23" ResourceID="2220"/>
+      <ofd:ImageObject ID="2221" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="29.72 50.29 0.17 8.30" MiterLimit="4.23" ResourceID="2222"/>
+      <ofd:ImageObject ID="2223" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="49.02 50.29 0.17 8.30" MiterLimit="4.23" ResourceID="2224"/>
+      <ofd:ImageObject ID="2225" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="93.98 50.29 0.17 8.30" MiterLimit="4.23" ResourceID="2226"/>
+      <ofd:ImageObject ID="2227" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="179.83 50.29 0.17 8.30" MiterLimit="4.23" ResourceID="2228"/>
+      <ofd:TextObject ID="2229" Boundary="31.75 61.04 1.86 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">1</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2230" Boundary="33.61 61.04 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2231" Boundary="51.05 61.04 14.90 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73">打开文件</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2232" Boundary="65.96 61.04 1.78 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2233" Boundary="67.73 61.04 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2234" Boundary="95.93 61.04 14.82 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86 1.86 1.86 1.86 1.86 1.86 1.86">Ctrl + O</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2235" Boundary="110.74 61.04 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2236" CTM="150.28 0.00 0.00 0.17 0.00 0.00" Boundary="29.72 58.59 150.28 0.17" MiterLimit="4.23" ResourceID="2237"/>
+      <ofd:ImageObject ID="2238" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="29.72 58.76 0.17 8.30" MiterLimit="4.23" ResourceID="2239"/>
+      <ofd:ImageObject ID="2240" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="49.02 58.76 0.17 8.30" MiterLimit="4.23" ResourceID="2241"/>
+      <ofd:ImageObject ID="2242" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="93.98 58.76 0.17 8.30" MiterLimit="4.23" ResourceID="2243"/>
+      <ofd:ImageObject ID="2244" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="179.83 58.76 0.17 8.30" MiterLimit="4.23" ResourceID="2245"/>
+      <ofd:TextObject ID="2246" Boundary="31.75 69.51 1.86 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">2</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2247" Boundary="33.61 69.51 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2248" Boundary="51.05 69.51 14.82 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73">关闭文件</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2249" Boundary="65.87 69.51 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2250" Boundary="95.93 69.51 16.68 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86 1.86 1.86 1.86 1.86 1.86 1.86 1.86">Ctrl + W </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2251" Boundary="112.61 69.51 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2252" CTM="150.28 0.00 0.00 0.17 0.00 0.00" Boundary="29.72 67.06 150.28 0.17" MiterLimit="4.23" ResourceID="2253"/>
+      <ofd:ImageObject ID="2254" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="29.72 67.23 0.17 8.21" MiterLimit="4.23" ResourceID="2255"/>
+      <ofd:ImageObject ID="2256" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="49.02 67.23 0.17 8.21" MiterLimit="4.23" ResourceID="2257"/>
+      <ofd:ImageObject ID="2258" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="93.98 67.23 0.17 8.21" MiterLimit="4.23" ResourceID="2259"/>
+      <ofd:ImageObject ID="2260" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="179.83 67.23 0.17 8.21" MiterLimit="4.23" ResourceID="2261"/>
+      <ofd:TextObject ID="2262" Boundary="31.75 77.89 1.86 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">3</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2263" Boundary="33.61 77.89 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2264" Boundary="51.05 77.89 7.37 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73">全屏</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2265" Boundary="58.42 77.89 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2266" Boundary="95.93 77.89 5.59 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86 1.86">F11</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2267" Boundary="101.52 77.89 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2268" CTM="150.28 0.00 0.00 0.17 0.00 0.00" Boundary="29.72 75.44 150.28 0.17" MiterLimit="4.23" ResourceID="2269"/>
+      <ofd:ImageObject ID="2270" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="29.72 75.61 0.17 8.30" MiterLimit="4.23" ResourceID="2271"/>
+      <ofd:ImageObject ID="2272" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="49.02 75.61 0.17 8.30" MiterLimit="4.23" ResourceID="2273"/>
+      <ofd:ImageObject ID="2274" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="93.98 75.61 0.17 8.30" MiterLimit="4.23" ResourceID="2275"/>
+      <ofd:ImageObject ID="2276" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="179.83 75.61 0.17 8.30" MiterLimit="4.23" ResourceID="2277"/>
+      <ofd:TextObject ID="2278" Boundary="31.75 86.36 1.86 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">4</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2279" Boundary="33.61 86.36 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2280" Boundary="51.05 86.36 7.37 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73">放大</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2281" Boundary="58.42 86.36 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2282" Boundary="95.93 86.36 14.82 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86 1.86 1.86 1.86 1.86 1.86 1.86">Ctrl + +</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2283" Boundary="110.74 86.36 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2284" CTM="150.28 0.00 0.00 0.17 0.00 0.00" Boundary="29.72 83.90 150.28 0.17" MiterLimit="4.23" ResourceID="2285"/>
+      <ofd:ImageObject ID="2286" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="29.72 84.07 0.17 8.21" MiterLimit="4.23" ResourceID="2287"/>
+      <ofd:ImageObject ID="2288" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="49.02 84.07 0.17 8.21" MiterLimit="4.23" ResourceID="2289"/>
+      <ofd:ImageObject ID="2290" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="93.98 84.07 0.17 8.21" MiterLimit="4.23" ResourceID="2291"/>
+      <ofd:ImageObject ID="2292" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="179.83 84.07 0.17 8.21" MiterLimit="4.23" ResourceID="2293"/>
+      <ofd:TextObject ID="2294" Boundary="31.75 94.74 1.86 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">5</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2295" Boundary="33.61 94.74 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2296" Boundary="51.05 94.74 7.37 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73">缩小</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2297" Boundary="58.42 94.74 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2298" Boundary="95.93 94.74 13.04 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86 1.86 1.86 1.86 1.86 1.86">Ctrl + </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2299" Boundary="108.97 94.74 1.78 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">-</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2300" Boundary="110.74 94.74 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2301" CTM="150.28 0.00 0.00 0.17 0.00 0.00" Boundary="29.72 92.29 150.28 0.17" MiterLimit="4.23" ResourceID="2302"/>
+      <ofd:ImageObject ID="2303" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="29.72 92.46 0.17 8.30" MiterLimit="4.23" ResourceID="2304"/>
+      <ofd:ImageObject ID="2305" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="49.02 92.46 0.17 8.30" MiterLimit="4.23" ResourceID="2306"/>
+      <ofd:ImageObject ID="2307" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="93.98 92.46 0.17 8.30" MiterLimit="4.23" ResourceID="2308"/>
+      <ofd:ImageObject ID="2309" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="179.83 92.46 0.17 8.30" MiterLimit="4.23" ResourceID="2310"/>
+      <ofd:TextObject ID="2311" Boundary="31.75 103.21 1.86 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">6</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2312" Boundary="33.61 103.21 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2313" Boundary="51.05 103.21 11.09 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73">缩放到</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2314" Boundary="62.15 103.21 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2315" Boundary="95.93 103.21 14.90 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86 1.86 1.86 1.86 1.86 1.86 1.86">Ctrl + M</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2316" Boundary="110.74 103.21 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2317" CTM="150.28 0.00 0.00 0.17 0.00 0.00" Boundary="29.72 100.75 150.28 0.17" MiterLimit="4.23" ResourceID="2318"/>
+      <ofd:ImageObject ID="2319" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="29.72 100.92 0.17 8.30" MiterLimit="4.23" ResourceID="2320"/>
+      <ofd:ImageObject ID="2321" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="49.02 100.92 0.17 8.30" MiterLimit="4.23" ResourceID="2322"/>
+      <ofd:ImageObject ID="2323" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="93.98 100.92 0.17 8.30" MiterLimit="4.23" ResourceID="2324"/>
+      <ofd:ImageObject ID="2325" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="179.83 100.92 0.17 8.30" MiterLimit="4.23" ResourceID="2326"/>
+      <ofd:TextObject ID="2327" Boundary="31.75 111.68 1.86 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">7</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2328" Boundary="33.61 111.68 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2329" Boundary="51.05 111.68 14.82 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73">原始大小</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2330" Boundary="65.87 111.68 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2331" Boundary="95.93 111.68 14.82 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86 1.86 1.86 1.86 1.86 1.86 1.86">Ctrl + 1</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2332" Boundary="110.74 111.68 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2333" CTM="150.28 0.00 0.00 0.17 0.00 0.00" Boundary="29.72 109.22 150.28 0.17" MiterLimit="4.23" ResourceID="2334"/>
+      <ofd:ImageObject ID="2335" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="29.72 109.39 0.17 8.21" MiterLimit="4.23" ResourceID="2336"/>
+      <ofd:ImageObject ID="2337" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="49.02 109.39 0.17 8.21" MiterLimit="4.23" ResourceID="2338"/>
+      <ofd:ImageObject ID="2339" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="93.98 109.39 0.17 8.21" MiterLimit="4.23" ResourceID="2340"/>
+      <ofd:ImageObject ID="2341" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="179.83 109.39 0.17 8.21" MiterLimit="4.23" ResourceID="2342"/>
+      <ofd:TextObject ID="2343" Boundary="31.75 120.06 1.86 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">8</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2344" Boundary="33.61 120.06 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2345" Boundary="51.05 120.06 14.82 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73">适合宽度</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2346" Boundary="65.87 120.06 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2347" Boundary="95.93 120.06 11.18 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86 1.86 1.86 1.86 1.86">Ctrl +</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2348" Boundary="107.10 120.06 1.86 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2349" Boundary="108.97 120.06 1.78 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">2</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2350" Boundary="110.74 120.06 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2351" CTM="150.28 0.00 0.00 0.17 0.00 0.00" Boundary="29.72 117.60 150.28 0.17" MiterLimit="4.23" ResourceID="2352"/>
+      <ofd:ImageObject ID="2353" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="29.72 117.77 0.17 8.30" MiterLimit="4.23" ResourceID="2354"/>
+      <ofd:ImageObject ID="2355" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="49.02 117.77 0.17 8.30" MiterLimit="4.23" ResourceID="2356"/>
+      <ofd:ImageObject ID="2357" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="93.98 117.77 0.17 8.30" MiterLimit="4.23" ResourceID="2358"/>
+      <ofd:ImageObject ID="2359" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="179.83 117.77 0.17 8.30" MiterLimit="4.23" ResourceID="2360"/>
+      <ofd:TextObject ID="2361" Boundary="31.75 128.52 1.86 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">9</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2362" Boundary="33.61 128.52 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2363" Boundary="51.05 128.52 14.82 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73">适合高度</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2364" Boundary="65.87 128.52 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2365" Boundary="95.93 128.52 9.31 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86 1.86 1.86 1.86">Ctrl </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2366" Boundary="105.24 128.52 3.73 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86">+ </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2367" Boundary="108.97 128.52 1.78 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">3</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2368" Boundary="110.74 128.52 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2369" CTM="150.28 0.00 0.00 0.17 0.00 0.00" Boundary="29.72 126.07 150.28 0.17" MiterLimit="4.23" ResourceID="2370"/>
+      <ofd:ImageObject ID="2371" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="29.72 126.24 0.17 8.21" MiterLimit="4.23" ResourceID="2372"/>
+      <ofd:ImageObject ID="2373" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="49.02 126.24 0.17 8.21" MiterLimit="4.23" ResourceID="2374"/>
+      <ofd:ImageObject ID="2375" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="93.98 126.24 0.17 8.21" MiterLimit="4.23" ResourceID="2376"/>
+      <ofd:ImageObject ID="2377" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="179.83 126.24 0.17 8.21" MiterLimit="4.23" ResourceID="2378"/>
+      <ofd:TextObject ID="2379" Boundary="31.75 136.91 3.73 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86">10</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2380" Boundary="35.48 136.91 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2381" Boundary="51.05 136.91 14.82 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73">适合页面</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2382" Boundary="65.87 136.91 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2383" Boundary="95.93 136.91 13.04 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86 1.86 1.86 1.86 1.86 1.86">Ctrl + </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2384" Boundary="108.97 136.91 1.78 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">4</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2385" Boundary="110.74 136.91 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2386" CTM="150.28 0.00 0.00 0.17 0.00 0.00" Boundary="29.72 134.45 150.28 0.17" MiterLimit="4.23" ResourceID="2387"/>
+      <ofd:ImageObject ID="2388" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="29.72 134.62 0.17 8.30" MiterLimit="4.23" ResourceID="2389"/>
+      <ofd:ImageObject ID="2390" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="49.02 134.62 0.17 8.30" MiterLimit="4.23" ResourceID="2391"/>
+      <ofd:ImageObject ID="2392" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="93.98 134.62 0.17 8.30" MiterLimit="4.23" ResourceID="2393"/>
+      <ofd:ImageObject ID="2394" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="179.83 134.62 0.17 8.30" MiterLimit="4.23" ResourceID="2395"/>
+      <ofd:TextObject ID="2396" Boundary="31.75 145.37 3.73 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86">11</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2397" Boundary="35.48 145.37 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2398" Boundary="51.05 145.37 25.91 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73 3.73 3.64 3.73">顺时针旋转页面</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2399" Boundary="76.96 145.37 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2400" Boundary="95.93 145.37 9.23 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86 1.86 1.86 1.86">Alt++</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2401" Boundary="105.16 145.37 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2402" CTM="150.28 0.00 0.00 0.17 0.00 0.00" Boundary="29.72 142.92 150.28 0.17" MiterLimit="4.23" ResourceID="2403"/>
+      <ofd:ImageObject ID="2404" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="29.72 143.09 0.17 8.21" MiterLimit="4.23" ResourceID="2405"/>
+      <ofd:ImageObject ID="2406" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="49.02 143.09 0.17 8.21" MiterLimit="4.23" ResourceID="2407"/>
+      <ofd:ImageObject ID="2408" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="93.98 143.09 0.17 8.21" MiterLimit="4.23" ResourceID="2409"/>
+      <ofd:ImageObject ID="2410" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="179.83 143.09 0.17 8.21" MiterLimit="4.23" ResourceID="2411"/>
+      <ofd:TextObject ID="2412" Boundary="31.75 153.84 3.73 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86">12</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2413" Boundary="35.48 153.84 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2414" Boundary="51.05 153.84 25.91 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73 3.73 3.64 3.73">逆时针旋转页面</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2415" Boundary="76.96 153.84 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2416" Boundary="95.93 153.84 7.45 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86 1.86 1.86">Alt+</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2417" Boundary="103.38 153.84 1.78 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">-</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2418" Boundary="105.16 153.84 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2419" CTM="150.28 0.00 0.00 0.17 0.00 0.00" Boundary="29.72 151.30 150.28 0.17" MiterLimit="4.23" ResourceID="2420"/>
+      <ofd:ImageObject ID="2421" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="29.72 151.47 0.17 8.30" MiterLimit="4.23" ResourceID="2422"/>
+      <ofd:ImageObject ID="2423" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="49.02 151.47 0.17 8.30" MiterLimit="4.23" ResourceID="2424"/>
+      <ofd:ImageObject ID="2425" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="93.98 151.47 0.17 8.30" MiterLimit="4.23" ResourceID="2426"/>
+      <ofd:ImageObject ID="2427" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="179.83 151.47 0.17 8.30" MiterLimit="4.23" ResourceID="2428"/>
+      <ofd:TextObject ID="2429" Boundary="31.75 162.22 3.73 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86">13</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2430" Boundary="35.48 162.22 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2431" Boundary="51.05 162.22 7.45 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73">显示</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2432" Boundary="58.50 162.22 1.86 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">/</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2433" Boundary="60.37 162.22 18.46 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.64 3.73">隐藏菜单栏</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2434" Boundary="78.82 162.22 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2435" Boundary="95.93 162.22 3.73 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86">F9</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2436" Boundary="99.65 162.22 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2437" CTM="150.28 0.00 0.00 0.17 0.00 0.00" Boundary="29.72 159.77 150.28 0.17" MiterLimit="4.23" ResourceID="2438"/>
+      <ofd:ImageObject ID="2439" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="29.72 159.94 0.17 8.30" MiterLimit="4.23" ResourceID="2440"/>
+      <ofd:ImageObject ID="2441" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="49.02 159.94 0.17 8.30" MiterLimit="4.23" ResourceID="2442"/>
+      <ofd:ImageObject ID="2443" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="93.98 159.94 0.17 8.30" MiterLimit="4.23" ResourceID="2444"/>
+      <ofd:ImageObject ID="2445" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="179.83 159.94 0.17 8.30" MiterLimit="4.23" ResourceID="2446"/>
+      <ofd:TextObject ID="2447" Boundary="31.75 170.69 1.86 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">1</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2448" Boundary="33.61 170.69 1.86 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">4</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2449" Boundary="35.48 170.69 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2450" Boundary="51.05 170.69 14.82 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73">切换标签</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2451" Boundary="65.87 170.69 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2452" Boundary="95.93 170.69 18.54 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86 1.86 1.86 1.86 1.86 1.86 1.86 1.86 1.86">Ctrl + Tab</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2453" Boundary="114.47 170.69 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2454" CTM="150.28 0.00 0.00 0.17 0.00 0.00" Boundary="29.72 168.23 150.28 0.17" MiterLimit="4.23" ResourceID="2455"/>
+      <ofd:ImageObject ID="2456" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="29.72 168.40 0.17 8.21" MiterLimit="4.23" ResourceID="2457"/>
+      <ofd:ImageObject ID="2458" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="49.02 168.40 0.17 8.21" MiterLimit="4.23" ResourceID="2459"/>
+      <ofd:ImageObject ID="2460" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="93.98 168.40 0.17 8.21" MiterLimit="4.23" ResourceID="2461"/>
+      <ofd:ImageObject ID="2462" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="179.83 168.40 0.17 8.21" MiterLimit="4.23" ResourceID="2463"/>
+      <ofd:TextObject ID="2464" Boundary="31.75 179.07 1.86 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">1</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2465" Boundary="33.61 179.07 1.86 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22">5</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2466" Boundary="35.48 179.07 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2467" Boundary="51.05 179.07 11.18 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73">上一页</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2468" Boundary="62.23 179.07 1.78 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2469" Boundary="64.01 179.07 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2470" Boundary="95.93 179.07 12.95 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86 1.86 1.86 1.86 1.86 1.86">Page Up</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2471" Boundary="108.88 179.07 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2472" CTM="150.28 0.00 0.00 0.17 0.00 0.00" Boundary="29.72 176.61 150.28 0.17" MiterLimit="4.23" ResourceID="2473"/>
+      <ofd:ImageObject ID="2474" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="29.72 176.78 0.17 8.30" MiterLimit="4.23" ResourceID="2475"/>
+      <ofd:ImageObject ID="2476" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="49.02 176.78 0.17 8.30" MiterLimit="4.23" ResourceID="2477"/>
+      <ofd:ImageObject ID="2478" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="93.98 176.78 0.17 8.30" MiterLimit="4.23" ResourceID="2479"/>
+      <ofd:ImageObject ID="2480" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="179.83 176.78 0.17 8.30" MiterLimit="4.23" ResourceID="2481"/>
+      <ofd:TextObject ID="2482" Boundary="31.75 187.54 3.73 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86">16</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2483" Boundary="35.48 187.54 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2484" Boundary="51.05 187.54 11.09 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73">下一页</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2485" Boundary="62.15 187.54 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2486" Boundary="95.93 187.54 16.68 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86 1.86 1.86 1.86 1.86 1.86 1.86 1.86">Page Down</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2487" Boundary="112.61 187.54 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2488" CTM="150.28 0.00 0.00 0.17 0.00 0.00" Boundary="29.72 185.08 150.28 0.17" MiterLimit="4.23" ResourceID="2489"/>
+      <ofd:ImageObject ID="2490" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="29.72 185.25 0.17 8.21" MiterLimit="4.23" ResourceID="2491"/>
+      <ofd:ImageObject ID="2492" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="49.02 185.25 0.17 8.21" MiterLimit="4.23" ResourceID="2493"/>
+      <ofd:ImageObject ID="2494" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="93.98 185.25 0.17 8.21" MiterLimit="4.23" ResourceID="2495"/>
+      <ofd:ImageObject ID="2496" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="179.83 185.25 0.17 8.21" MiterLimit="4.23" ResourceID="2497"/>
+      <ofd:TextObject ID="2498" Boundary="31.75 195.92 3.73 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86">17</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2499" Boundary="35.48 195.92 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2500" Boundary="51.05 195.92 7.37 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73">首页</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2501" Boundary="58.42 195.92 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2502" Boundary="95.93 195.92 7.37 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86 1.86 1.86">Home</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2503" Boundary="103.29 195.92 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2504" CTM="150.28 0.00 0.00 0.17 0.00 0.00" Boundary="29.72 193.46 150.28 0.17" MiterLimit="4.23" ResourceID="2505"/>
+      <ofd:ImageObject ID="2506" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="29.72 193.63 0.17 8.30" MiterLimit="4.23" ResourceID="2507"/>
+      <ofd:ImageObject ID="2508" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="49.02 193.63 0.17 8.30" MiterLimit="4.23" ResourceID="2509"/>
+      <ofd:ImageObject ID="2510" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="93.98 193.63 0.17 8.30" MiterLimit="4.23" ResourceID="2511"/>
+      <ofd:ImageObject ID="2512" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="179.83 193.63 0.17 8.30" MiterLimit="4.23" ResourceID="2513"/>
+      <ofd:TextObject ID="2514" Boundary="31.75 204.39 3.73 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86">18</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2515" Boundary="35.48 204.39 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2516" Boundary="51.05 204.39 7.37 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73">末页</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2517" Boundary="58.42 204.39 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2518" Boundary="95.93 204.39 5.59 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86 1.86">End</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2519" Boundary="101.52 204.39 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2520" CTM="150.28 0.00 0.00 0.17 0.00 0.00" Boundary="29.72 201.93 150.28 0.17" MiterLimit="4.23" ResourceID="2521"/>
+      <ofd:ImageObject ID="2522" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="29.72 202.10 0.17 8.30" MiterLimit="4.23" ResourceID="2523"/>
+      <ofd:ImageObject ID="2524" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="49.02 202.10 0.17 8.30" MiterLimit="4.23" ResourceID="2525"/>
+      <ofd:ImageObject ID="2526" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="93.98 202.10 0.17 8.30" MiterLimit="4.23" ResourceID="2527"/>
+      <ofd:ImageObject ID="2528" CTM="0.17 0.00 0.00 8.30 0.00 0.00" Boundary="179.83 202.10 0.17 8.30" MiterLimit="4.23" ResourceID="2529"/>
+      <ofd:TextObject ID="2530" Boundary="31.75 212.85 3.73 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86">19</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2531" Boundary="35.48 212.85 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2532" Boundary="51.05 212.85 22.27 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="3.73 3.73 3.73 3.73 3.64">跳至特定页面</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2533" Boundary="73.32 212.85 1.78 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2534" Boundary="75.10 212.85 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2535" Boundary="95.93 212.85 14.82 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22" DeltaX="1.86 1.86 1.86 1.86 1.86 1.86 1.86">Ctrl + G</ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:TextObject ID="2536" Boundary="110.74 212.85 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+      <ofd:ImageObject ID="2537" CTM="150.28 0.00 0.00 0.17 0.00 0.00" Boundary="29.72 210.40 150.28 0.17" MiterLimit="4.23" ResourceID="2538"/>
+      <ofd:ImageObject ID="2539" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="29.72 210.57 0.17 8.21" MiterLimit="4.23" ResourceID="2540"/>
+      <ofd:ImageObject ID="2541" CTM="19.30 0.00 0.00 0.17 0.00 0.00" Boundary="29.72 218.78 19.30 0.17" MiterLimit="4.23" ResourceID="2542"/>
+      <ofd:ImageObject ID="2543" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="49.02 210.57 0.17 8.21" MiterLimit="4.23" ResourceID="2544"/>
+      <ofd:ImageObject ID="2545" CTM="44.96 0.00 0.00 0.17 0.00 0.00" Boundary="49.02 218.78 44.96 0.17" MiterLimit="4.23" ResourceID="2546"/>
+      <ofd:ImageObject ID="2547" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="93.98 210.57 0.17 8.21" MiterLimit="4.23" ResourceID="2548"/>
+      <ofd:ImageObject ID="2549" CTM="85.85 0.00 0.00 0.17 0.00 0.00" Boundary="93.98 218.78 85.85 0.17" MiterLimit="4.23" ResourceID="2550"/>
+      <ofd:ImageObject ID="2551" CTM="0.17 0.00 0.00 8.21 0.00 0.00" Boundary="179.83 210.57 0.17 8.21" MiterLimit="4.23" ResourceID="2552"/>
+      <ofd:ImageObject ID="2553" CTM="0.17 0.00 0.00 0.17 0.00 0.00" Boundary="179.83 218.78 0.17 0.17" MiterLimit="4.23" ResourceID="2554"/>
+      <ofd:TextObject ID="2555" Boundary="31.75 221.23 3.13 3.73" MiterLimit="4.23" Font="7" Size="3.73">
+        <ofd:FillColor Value="0 0 0" ColorSpace="1"/>
+        <ofd:TextCode X="0.00" Y="3.22"> </ofd:TextCode>
+      </ofd:TextObject>
+    </ofd:Layer>
+  </ofd:Content>
+</ofd:Page>
