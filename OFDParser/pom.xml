@@ -36,17 +36,12 @@
 	    <version>5.5.10</version>
 	</dependency> -->
 	
-	<dependency>
+	<!-- <dependency>
 	    <groupId>org.apache.pdfbox</groupId>
 	    <artifactId>pdfbox</artifactId>
 	    <version>2.0.4</version>
-	</dependency>
+	</dependency> -->
 	
-	<!-- <dependency>
-        <groupId>com.itextpdf</groupId>
-        <artifactId>kernel</artifactId>
-        <version>${itext.version}</version>
-    </dependency> -->
     
     <!-- add all iText 7 Community modules -->
     <dependency>

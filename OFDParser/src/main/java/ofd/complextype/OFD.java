@@ -6,7 +6,7 @@ public class OFD {
 	
 	private String version;
 	private String docType;
-	private Set<DocBody> docBody;
+	private Set<DocBody> docBodies;
 	
 	public String getVersion() {
 		return version;
@@ -20,12 +20,13 @@ public class OFD {
 	public void setDocType(String docType) {
 		this.docType = docType;
 	}
-	public Set<DocBody> getDocBody() {
-		return docBody;
+	public Set<DocBody> getDocBodies() {
+		return docBodies;
 	}
-	public void setDocBody(Set<DocBody> docBody) {
-		this.docBody = docBody;
+	public void setDocBodies(Set<DocBody> docBodies) {
+		this.docBodies = docBodies;
 	}
+	
 	
 	
 	
