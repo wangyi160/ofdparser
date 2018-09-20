@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ofd:Document xmlns:ofd="http://www.ofdspec.org">  
+  <ofd:CommonData> 
+    <ofd:MaxUnitID>2556</ofd:MaxUnitID>
+    <ofd:PageArea> 
+      <ofd:PhysicalBox>0.00 0.00 210.00 297.00</ofd:PhysicalBox> 
+    </ofd:PageArea>  
+    <ofd:PublicRes>PublicRes.xml</ofd:PublicRes>
+  </ofd:CommonData>  
+  <ofd:Pages>
+    <ofd:Page ID="2" BaseLoc="Pages/Page_0/Content.xml"/>
+    <ofd:Page ID="40" BaseLoc="Pages/Page_1/Content.xml"/>
+    <ofd:Page ID="131" BaseLoc="Pages/Page_2/Content.xml"/>
+    <ofd:Page ID="382" BaseLoc="Pages/Page_3/Content.xml"/>
+    <ofd:Page ID="547" BaseLoc="Pages/Page_4/Content.xml"/>
+    <ofd:Page ID="729" BaseLoc="Pages/Page_5/Content.xml"/>
+    <ofd:Page ID="865" BaseLoc="Pages/Page_6/Content.xml"/>
+    <ofd:Page ID="1006" BaseLoc="Pages/Page_7/Content.xml"/>
+    <ofd:Page ID="1148" BaseLoc="Pages/Page_8/Content.xml"/>
+    <ofd:Page ID="1332" BaseLoc="Pages/Page_9/Content.xml"/>
+    <ofd:Page ID="1454" BaseLoc="Pages/Page_10/Content.xml"/>
+    <ofd:Page ID="1663" BaseLoc="Pages/Page_11/Content.xml"/>
+    <ofd:Page ID="1870" BaseLoc="Pages/Page_12/Content.xml"/>
+    <ofd:Page ID="1998" BaseLoc="Pages/Page_13/Content.xml"/>
+    <ofd:Page ID="2092" BaseLoc="Pages/Page_14/Content.xml"/>
+    <ofd:Page ID="2191" BaseLoc="Pages/Page_15/Content.xml"/>
+  </ofd:Pages>  
+  <ofd:Outlines>
+    <ofd:OutlineElem Expanded="false" Title="概述">
+      <Actions>
+        <Action Event="CLICK">
+          <Goto>
+            <Dest Type="XYZ" Left="39.16" Top="25.95" Zoom="1.00" PageID="382"/>
+          </Goto>
+        </Action>
+      </Actions>
+      <ofd:OutlineElem Expanded="false" Title="产品简介">
+        <Actions>
+          <Action Event="CLICK">
+            <Goto>
+              <Dest Type="XYZ" Left="41.80" Top="41.89" Zoom="1.00" PageID="382"/>
+            </Goto>
+          </Action>
+        </Actions>
+      </ofd:OutlineElem>
+      <ofd:OutlineElem Expanded="false" Title="产品特点">
+        <Actions>
+          <Action Event="CLICK">
+            <Goto>
+              <Dest Type="XYZ" Left="41.80" Top="124.97" Zoom="1.00" PageID="382"/>
+            </Goto>
+          </Action>
+        </Actions>
+      </ofd:OutlineElem>
+    </ofd:OutlineElem>
+    <ofd:OutlineElem Expanded="false" Title="使用入门">
+      <Actions>
+        <Action Event="CLICK">
+          <Goto>
+            <Dest Type="XYZ" Left="39.16" Top="152.15" Zoom="1.00" PageID="547"/>
+          </Goto>
+        </Action>
+      </Actions>
+      <ofd:OutlineElem Expanded="false" Title="运行环境">
+        <Actions>
+          <Action Event="CLICK">
+            <Goto>
+              <Dest Type="XYZ" Left="46.57" Top="187.43" Zoom="1.00" PageID="547"/>
+            </Goto>
+          </Action>
+        </Actions>
+        <ofd:OutlineElem Expanded="false" Title="支持的操作系统">
+          <Actions>
+            <Action Event="CLICK">
+              <Goto>
+                <Dest Type="XYZ" Left="46.57" Top="201.19" Zoom="1.00" PageID="547"/>
+              </Goto>
+            </Action>
+          </Actions>
+        </ofd:OutlineElem>
+      </ofd:OutlineElem>
+      <ofd:OutlineElem Expanded="false" Title="安装和卸载">
+        <Actions>
+          <Action Event="CLICK">
+            <Goto>
+              <Dest Type="XYZ" Left="46.57" Top="28.15" Zoom="1.00" PageID="729"/>
+            </Goto>
+          </Action>
+        </Actions>
+        <ofd:OutlineElem Expanded="false" Title="安装Windows版本">
+          <Actions>
+            <Action Event="CLICK">
+              <Goto>
+                <Dest Type="XYZ" Left="46.57" Top="41.65" Zoom="1.00" PageID="729"/>
+              </Goto>
+            </Action>
+          </Actions>
+        </ofd:OutlineElem>
+        <ofd:OutlineElem Expanded="false" Title="卸载Windows版本">
+          <Actions>
+            <Action Event="CLICK">
+              <Goto>
+                <Dest Type="XYZ" Left="46.57" Top="176.58" Zoom="1.00" PageID="729"/>
+              </Goto>
+            </Action>
+          </Actions>
+        </ofd:OutlineElem>
+      </ofd:OutlineElem>
+      <ofd:OutlineElem Expanded="false" Title="设为默认阅读器">
+        <Actions>
+          <Action Event="CLICK">
+            <Goto>
+              <Dest Type="XYZ" Left="46.57" Top="229.41" Zoom="1.00" PageID="729"/>
+            </Goto>
+          </Action>
+        </Actions>
+      </ofd:OutlineElem>
+      <ofd:OutlineElem Expanded="false" Title="获取帮助">
+        <Actions>
+          <Action Event="CLICK">
+            <Goto>
+              <Dest Type="XYZ" Left="46.57" Top="158.33" Zoom="1.00" PageID="865"/>
+            </Goto>
+          </Action>
+        </Actions>
+      </ofd:OutlineElem>
+      <ofd:OutlineElem Expanded="false" Title="界面介绍">
+        <Actions>
+          <Action Event="CLICK">
+            <Goto>
+              <Dest Type="XYZ" Left="46.57" Top="205.60" Zoom="1.00" PageID="865"/>
+            </Goto>
+          </Action>
+        </Actions>
+      </ofd:OutlineElem>
+    </ofd:OutlineElem>
+    <ofd:OutlineElem Expanded="false" Title="阅读操作">
+      <Actions>
+        <Action Event="CLICK">
+          <Goto>
+            <Dest Type="XYZ" Left="39.16" Top="86.27" Zoom="1.00" PageID="1006"/>
+          </Goto>
+        </Action>
+      </Actions>
+      <ofd:OutlineElem Expanded="false" Title="操作OFD 文件">
+        <Actions>
+          <Action Event="CLICK">
+            <Goto>
+              <Dest Type="XYZ" Left="46.57" Top="107.44" Zoom="1.00" PageID="1006"/>
+            </Goto>
+          </Action>
+        </Actions>
+        <ofd:OutlineElem Expanded="false" Title="打开文件">
+          <Actions>
+            <Action Event="CLICK">
+              <Goto>
+                <Dest Type="XYZ" Left="46.57" Top="118.82" Zoom="1.00" PageID="1006"/>
+              </Goto>
+            </Action>
+          </Actions>
+        </ofd:OutlineElem>
+        <ofd:OutlineElem Expanded="false" Title="关闭文件">
+          <Actions>
+            <Action Event="CLICK">
+              <Goto>
+                <Dest Type="XYZ" Left="46.57" Top="137.95" Zoom="1.00" PageID="1148"/>
+              </Goto>
+            </Action>
+          </Actions>
+        </ofd:OutlineElem>
+      </ofd:OutlineElem>
+      <ofd:OutlineElem Expanded="false" Title="查看文档">
+        <Actions>
+          <Action Event="CLICK">
+            <Goto>
+              <Dest Type="XYZ" Left="46.57" Top="231.62" Zoom="1.00" PageID="1148"/>
+            </Goto>
+          </Action>
+        </Actions>
+        <ofd:OutlineElem Expanded="false" Title="多文档浏览">
+          <Actions>
+            <Action Event="CLICK">
+              <Goto>
+                <Dest Type="XYZ" Left="46.57" Top="118.90" Zoom="1.00" PageID="1332"/>
+              </Goto>
+            </Action>
+          </Actions>
+        </ofd:OutlineElem>
+        <ofd:OutlineElem Expanded="false" Title="阅读模式">
+          <Actions>
+            <Action Event="CLICK">
+              <Goto>
+                <Dest Type="XYZ" Left="46.57" Top="28.15" Zoom="1.00" PageID="1454"/>
+              </Goto>
+            </Action>
+          </Actions>
+          <ofd:OutlineElem Expanded="false" Title="全屏模式">
+            <Actions>
+              <Action Event="CLICK">
+                <Goto>
+                  <Dest Type="XYZ" Left="47.10" Top="52.76" Zoom="1.00" PageID="1454"/>
+                </Goto>
+              </Action>
+            </Actions>
+          </ofd:OutlineElem>
+          <ofd:OutlineElem Expanded="false" Title="窗口阅读">
+            <Actions>
+              <Action Event="CLICK">
+                <Goto>
+                  <Dest Type="XYZ" Left="47.10" Top="140.86" Zoom="1.00" PageID="1454"/>
+                </Goto>
+              </Action>
+            </Actions>
+          </ofd:OutlineElem>
+          <ofd:OutlineElem Expanded="false" Title="页面大小">
+            <Actions>
+              <Action Event="CLICK">
+                <Goto>
+                  <Dest Type="XYZ" Left="47.10" Top="239.82" Zoom="1.00" PageID="1454"/>
+                </Goto>
+              </Action>
+            </Actions>
+          </ofd:OutlineElem>
+          <ofd:OutlineElem Expanded="false" Title="页面方向">
+            <Actions>
+              <Action Event="CLICK">
+                <Goto>
+                  <Dest Type="XYZ" Left="47.10" Top="74.72" Zoom="1.00" PageID="1663"/>
+                </Goto>
+              </Action>
+            </Actions>
+          </ofd:OutlineElem>
+          <ofd:OutlineElem Expanded="false" Title="页面布局">
+            <Actions>
+              <Action Event="CLICK">
+                <Goto>
+                  <Dest Type="XYZ" Left="47.10" Top="157.27" Zoom="1.00" PageID="1663"/>
+                </Goto>
+              </Action>
+            </Actions>
+          </ofd:OutlineElem>
+        </ofd:OutlineElem>
+        <ofd:OutlineElem Expanded="false" Title="文档翻阅">
+          <Actions>
+            <Action Event="CLICK">
+              <Goto>
+                <Dest Type="XYZ" Left="46.57" Top="253.58" Zoom="1.00" PageID="1663"/>
+              </Goto>
+            </Action>
+          </Actions>
+        </ofd:OutlineElem>
+      </ofd:OutlineElem>
+      <ofd:OutlineElem Expanded="false" Title="文档导览">
+        <Actions>
+          <Action Event="CLICK">
+            <Goto>
+              <Dest Type="XYZ" Left="46.57" Top="66.52" Zoom="1.00" PageID="1998"/>
+            </Goto>
+          </Action>
+        </Actions>
+      </ofd:OutlineElem>
+    </ofd:OutlineElem>
+    <ofd:OutlineElem Expanded="false" Title="常用快捷键">
+      <Actions>
+        <Action Event="CLICK">
+          <Goto>
+            <Dest Type="XYZ" Left="39.16" Top="28.15" Zoom="1.00" PageID="2191"/>
+          </Goto>
+        </Action>
+      </Actions>
+    </ofd:OutlineElem>
+  </ofd:Outlines>
+</ofd:Document>
