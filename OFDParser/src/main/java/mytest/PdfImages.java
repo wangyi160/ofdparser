@@ -33,6 +33,8 @@ public class PdfImages {
         //Image img1 = new Image(ImageDataFactory.create(imgSrc));
         PdfImageXObject pdfImageObject=new PdfImageXObject(ImageDataFactory.create(imgSrc));
         
+//        pdfCanvas.concatMatrix(a, b, c, d, e, f);
+//        pdfCanvas.restoreState();
         pdfCanvas.addXObject(pdfImageObject, new Rectangle(59.27f, 297-(74.68f+66.38f), 91.36f, 66.38f));
         
         pdf.close();

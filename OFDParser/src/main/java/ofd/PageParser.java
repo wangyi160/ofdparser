@@ -17,7 +17,9 @@ import org.xml.sax.SAXException;
 import dom.DomUtil;
 import ofd.complextype.Block;
 import ofd.complextype.Color;
+import ofd.complextype.ColorSpace;
 import ofd.complextype.EventType;
+import ofd.complextype.ImageObject;
 import ofd.complextype.Layer;
 import ofd.complextype.LayerType;
 import ofd.complextype.OFD;
@@ -25,6 +27,7 @@ import ofd.complextype.OutlineElem;
 import ofd.complextype.Page;
 import ofd.complextype.PageArea;
 import ofd.complextype.PageNode;
+import ofd.complextype.Res;
 import ofd.complextype.TextCode;
 import ofd.complextype.TextObject;
 import ofd.simpletype.Box;
@@ -35,7 +38,7 @@ public class PageParser {
 
 	public static void main(String[] args) throws ParserConfigurationException, SAXException, IOException {
 		// TODO Auto-generated method stub
-		Page page=makePage("ofdunzipfiles/ReaderManual/Doc_0/Pages/Page_4/Content.xml");
+		Page page=makePage("ofdunzipfiles/ReaderManual/Doc_0/Pages/Page_4/Content.xml", new Res());
 		
 		TextObject to5=null;//=(TextObject)page.getContent().get(0).getPageBlocks().get(5);
 		
@@ -61,7 +64,7 @@ public class PageParser {
 	
 	public static final String docNS = "http://www.ofdspec.org";
 	
-	public static Page makePage(String baseLoc) throws ParserConfigurationException, SAXException, IOException
+	public static Page makePage(String baseLoc, Res res) throws ParserConfigurationException, SAXException, IOException
 	{
 		Page page=new Page();
 		
@@ -81,7 +84,7 @@ public class PageParser {
 			List<Layer> content=new ArrayList<>();
 			for(int i=0;i<list.size();i++)
 			{
-				Layer layer=makeLayer( list.get(i));
+				Layer layer=makeLayer( list.get(i), res );
 				content.add(layer);
 			}
 			
@@ -92,7 +95,7 @@ public class PageParser {
 		return page;
 	}
 
-	private static Layer makeLayer(Node node)
+	private static Layer makeLayer(Node node, Res res)
 	{
 		
 		Layer layer=new Layer();
@@ -126,10 +129,15 @@ public class PageParser {
 		{
 			Block block=null;
 			
-			if(list.get(i).getNodeName().indexOf("TextObject")>0)
+			if(list.get(i).getNodeName().indexOf("TextObject")>=0)
 			{
-				block=makeTextObject(list.get(i));
+				block=makeTextObject(list.get(i), res);
 			}
+			else if(list.get(i).getNodeName().indexOf("ImageObject")>=0)
+			{
+				block=makeImageObject(list.get(i), res);
+			}
+			
 			blocks.add(block);
 		}
 		
@@ -139,7 +147,7 @@ public class PageParser {
 		
 	}
 	
-	private static TextObject makeTextObject(Node node)
+	private static TextObject makeTextObject(Node node, Res res)
 	{
 		
 		TextObject textObject=new TextObject();
@@ -148,11 +156,11 @@ public class PageParser {
 		
 		textObject.setBoundary(new Box(attrMap.getNamedItem("Boundary").getTextContent()));
 		textObject.setFont(attrMap.getNamedItem("Font").getTextContent());
-		textObject.setSize(Double.parseDouble(attrMap.getNamedItem("Size").getTextContent()));
+		textObject.setSize(Float.parseFloat(attrMap.getNamedItem("Size").getTextContent()));
 		
 		// MITERLIMIT attr
 		if(attrMap.getNamedItem("MiterLimit")!=null)
-			textObject.setMiterLimit(Double.parseDouble(attrMap.getNamedItem("MiterLimit").getTextContent()));
+			textObject.setMiterLimit(Float.parseFloat(attrMap.getNamedItem("MiterLimit").getTextContent()));
 		
 		// ID attr
 		if(attrMap.getNamedItem("ID")!=null)
@@ -174,12 +182,47 @@ public class PageParser {
 		list = DomUtil.getElementsByTagNameNS(node, docNS, "FillColor");  
 		if(list.size()>0)
 		{
-			textObject.setFillColor(makeColor(list.get(0)));
+			textObject.setFillColor(makeColor(list.get(0), res));
 		}
 		
 		
 		
 		return textObject;
+		
+	}
+	
+	private static ImageObject makeImageObject(Node node, Res res)
+	{
+		
+		ImageObject imageObject=new ImageObject();
+		
+		NamedNodeMap attrMap=node.getAttributes();
+		
+		imageObject.setBoundary(new Box(attrMap.getNamedItem("Boundary").getTextContent()));
+		imageObject.setResourceId(attrMap.getNamedItem("ResourceID").getTextContent());
+		
+		// MITERLIMIT attr
+		if(attrMap.getNamedItem("MiterLimit")!=null)
+			imageObject.setMiterLimit(Float.parseFloat(attrMap.getNamedItem("MiterLimit").getTextContent()));
+		
+		// ID attr
+		if(attrMap.getNamedItem("ID")!=null)
+			imageObject.setId(attrMap.getNamedItem("ID").getTextContent());
+		
+		// CTM attr
+		if(attrMap.getNamedItem("CTM")!=null)
+		{
+			String[] parts=attrMap.getNamedItem("CTM").getTextContent().split(" ");
+			double[] ctm=new double[parts.length];
+			for(int i=0;i<parts.length;i++)
+			{
+				ctm[i]=Double.parseDouble(parts[i]);
+			}
+			
+			imageObject.setCtm(ctm);
+		}
+		
+		return imageObject;
 		
 	}
 	
@@ -192,19 +235,19 @@ public class PageParser {
 		textCode.setText(node.getTextContent());
 		
 		if(attrMap.getNamedItem("X")!=null)
-			textCode.setX(Double.parseDouble(attrMap.getNamedItem("X").getTextContent()));
+			textCode.setX(Float.parseFloat(attrMap.getNamedItem("X").getTextContent()));
 		
 		if(attrMap.getNamedItem("Y")!=null)
-			textCode.setY(Double.parseDouble(attrMap.getNamedItem("Y").getTextContent()));
+			textCode.setY(Float.parseFloat(attrMap.getNamedItem("Y").getTextContent()));
 		
 		if(attrMap.getNamedItem("DeltaX")!=null)
 		{
 			String[] parts=attrMap.getNamedItem("DeltaX").getTextContent().split(" ");
-			double[] deltaX=new double[parts.length];
+			float[] deltaX=new float[parts.length];
 			
 			for(int i=0;i<parts.length;i++)
 			{
-				deltaX[i]=Double.parseDouble(parts[i]);
+				deltaX[i]=Float.parseFloat(parts[i]);
 			}
 			
 			textCode.setDeltaX(deltaX);
@@ -213,11 +256,11 @@ public class PageParser {
 		if(attrMap.getNamedItem("DeltaY")!=null)
 		{
 			String[] parts=attrMap.getNamedItem("DeltaY").getTextContent().split(" ");
-			double[] deltaY=new double[parts.length];
+			float[] deltaY=new float[parts.length];
 			
 			for(int i=0;i<parts.length;i++)
 			{
-				deltaY[i]=Double.parseDouble(parts[i]);
+				deltaY[i]=Float.parseFloat(parts[i]);
 			}
 			
 			textCode.setDeltaY(deltaY);
@@ -227,7 +270,7 @@ public class PageParser {
 		return textCode;
 	}
 	
-	private static Color makeColor(Node node)
+	private static Color makeColor(Node node, Res res)
 	{
 		Color color=new Color();
 		
@@ -236,11 +279,11 @@ public class PageParser {
 		if(attrMap.getNamedItem("Value")!=null)
 		{
 			String[] parts=attrMap.getNamedItem("Value").getTextContent().split(" ");
-			int[] value=new int[parts.length];
+			float[] value=new float[parts.length];
 			
 			for(int i=0;i<parts.length;i++)
 			{
-				value[i]=Integer.parseInt(parts[i]);
+				value[i]=Float.parseFloat(parts[i])/255;
 			}
 			
 			color.setValue(value);
@@ -248,7 +291,14 @@ public class PageParser {
 		
 		if(attrMap.getNamedItem("ColorSpace")!=null)
 		{
-			color.setColorSpace(attrMap.getNamedItem("ColorSpace").getTextContent());
+			String csId=attrMap.getNamedItem("ColorSpace").getTextContent();
+			
+			for(ColorSpace cs: res.getColorSpaces())
+			{
+				if(cs.getId()!=null && cs.getId().equals(csId))
+					color.setColorSpace(cs);
+			}
+						
 		}
 		
 		return color;

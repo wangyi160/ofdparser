@@ -9,10 +9,10 @@ public class TextObject extends Block {
 	private Box boundary; //must 
 	
 	private String font; // must
-	private double size; // must
+	private float size; // must
 	private List<TextCode> textCode; // must
 			
-	private double miterLimit;
+	private float miterLimit = -1;
 	private Color fillColor;
 	private String id;
 	
@@ -20,6 +20,12 @@ public class TextObject extends Block {
 	public TextObject()
 	{
 		this.type="CT_Text";
+		
+		// 默认fillcolor为rgb，000
+		fillColor=new Color();
+		float[] value= {0,0,0};
+		fillColor.setValue(value);
+		fillColor.setColorSpace(new ColorSpace());
 	}
 
 
@@ -43,12 +49,12 @@ public class TextObject extends Block {
 	}
 
 
-	public double getSize() {
+	public float getSize() {
 		return size;
 	}
 
 
-	public void setSize(double size) {
+	public void setSize(float size) {
 		this.size = size;
 	}
 
@@ -63,12 +69,12 @@ public class TextObject extends Block {
 	}
 
 
-	public double getMiterLimit() {
+	public float getMiterLimit() {
 		return miterLimit;
 	}
 
 
-	public void setMiterLimit(double miterLimit) {
+	public void setMiterLimit(float miterLimit) {
 		this.miterLimit = miterLimit;
 	}
 

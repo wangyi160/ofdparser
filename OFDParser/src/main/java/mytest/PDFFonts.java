@@ -42,14 +42,17 @@ public class PDFFonts {
         PdfFont f7 = PdfFontFactory.createFont("C:/WINDOWS/Fonts/TIMESBD.TTF", PdfEncodings.IDENTITY_H, false);
         PdfFont f8 = PdfFontFactory.createFont("C:/WINDOWS/Fonts/SIMHEI.TTF", PdfEncodings.IDENTITY_H, false);
         
-                
+        PdfFont f9 = PdfFontFactory.createFont("D:/OFD2PDF/tnrbd.ttf", PdfEncodings.IDENTITY_H, true);
+        
         //PdfFont f9 = PdfFontFactory.createFont("src/main/resources/fonts/font_1.otf", PdfEncodings.UTF8, true);
         
         document.add(new Paragraph("你好啊").setFont(f1).setItalic().setBold().setFontSize((float) 9.14));
+        document.add(new Paragraph("1111").setFont(f9).setFontSize((float) 9.14));
         document.add(new Paragraph("1234").setFont(f2).setFontSize((float) 8.14));
         document.add(new Paragraph("QWER").setFont(f3).setFontSize((float) 8.14));
         document.add(new Paragraph("ASDF").setFont(f4).setFontSize((float) 8.14));
         
+                
 //        List list=new List();
 //        list.setListSymbol(new Text("\uEF8398").setFont(f5));
 //        document.add(list);

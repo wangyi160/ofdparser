@@ -4,34 +4,34 @@ public class TextCode {
 
 	private String text; // must
 	
-	private double x;
-	private double y;
-	private double[] deltaX;
-	private double[] deltaY;
+	private float x = -1;
+	private float y = -1;
+	private float[] deltaX;
+	private float[] deltaY;
 	
 	
-	public double getX() {
+	public float getX() {
 		return x;
 	}
-	public void setX(double x) {
+	public void setX(float x) {
 		this.x = x;
 	}
-	public double getY() {
+	public float getY() {
 		return y;
 	}
-	public void setY(double y) {
+	public void setY(float y) {
 		this.y = y;
 	}
-	public double[] getDeltaX() {
+	public float[] getDeltaX() {
 		return deltaX;
 	}
-	public void setDeltaX(double[] deltaX) {
+	public void setDeltaX(float[] deltaX) {
 		this.deltaX = deltaX;
 	}
-	public double[] getDeltaY() {
+	public float[] getDeltaY() {
 		return deltaY;
 	}
-	public void setDeltaY(double[] deltaY) {
+	public void setDeltaY(float[] deltaY) {
 		this.deltaY = deltaY;
 	}
 	public String getText() {

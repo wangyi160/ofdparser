@@ -2,21 +2,22 @@ package ofd.complextype;
 
 public class Color {
 
-	private int[] value;
-	private String colorSpace;
+	private float[] value;
+	private ColorSpace colorSpace=new ColorSpace(); // 对应res中的colorspace ID, 默认RGB
 	
-	public int[] getValue() {
+	public float[] getValue() {
 		return value;
 	}
-	public void setValue(int[] value) {
+	public void setValue(float[] value) {
 		this.value = value;
 	}
-	public String getColorSpace() {
+	public ColorSpace getColorSpace() {
 		return colorSpace;
 	}
-	public void setColorSpace(String colorSpace) {
+	public void setColorSpace(ColorSpace colorSpace) {
 		this.colorSpace = colorSpace;
 	}
+	
 	
 	
 	

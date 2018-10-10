@@ -72,10 +72,12 @@ public class PDF2TextExample {
 		String dest="xmlfiles/txt.pdf";
 		
 		PdfDocument pdf = new PdfDocument(new PdfWriter(dest));
-		pdf.setDefaultPageSize(new PageSize(210, 297));
+		//pdf.setDefaultPageSize(new PageSize(210, 297));
 		
-        Document document = new Document(pdf);
+        //Document document = new Document(pdf);
         PdfPage page = pdf.addNewPage();
+        page.setMediaBox(new Rectangle(0,0, 210, 297));
+        
         PdfCanvas pdfCanvas = new PdfCanvas(page);
         
         float fontsize=9.14f;
